@@ -2,7 +2,7 @@
 
 This is a heat map visualization of global temperature data. The heat map displays the monthly temperature variances over a period of time, providing insights into the changing climate patterns.
 
-![Heat Map Page]([heatmap.png](https://xacah-x.github.io/D3HeatMap/))
+![Heat Map Page]([heatmap.png](https://xacah-x.github.io/D3HeatMap/)
 
 ## Data Source
 
